@@ -1,1 +1,11 @@
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishwarya-029&show_icons=true&theme=github_dark&cache_seconds=1800)
+# Hi 👋 I'm Aishwarya R M
+
+🎓 B.Tech - Information Technology  
+🤖 AI & Data Science Enthusiast  
+💻 Python | SQL | Machine Learning  
+
+---
+
+## 🚀 Projects
+- 🤖 AI Resume Screening System
+- 📊 Data Analytics Projects
